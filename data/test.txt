@@ -1,0 +1,15 @@
+data/obj/cam_image38.jpg
+data/obj/cam_image2.jpg
+data/obj/cam_image3.jpg
+data/obj/cam_image39.jpg
+data/obj/cam_image11.jpg
+data/obj/cam_image13.jpg
+data/obj/cam_image1.jpg
+data/obj/cam_image12.jpg
+data/obj/cam_image54.jpg
+data/obj/cam_image41.jpg
+data/obj/cam_image43.jpg
+data/obj/cam_image42.jpg
+data/obj/cam_image52.jpg
+data/obj/cam_image46.jpg
+data/obj/cam_image47.jpg
